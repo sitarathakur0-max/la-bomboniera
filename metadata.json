@@ -1,0 +1,8 @@
+{
+  "name": "La Bomboniera",
+  "description": "Italian-themed gift shop in Chicago on Harlem Ave offering curated Italian gifts, traditional bomboniere, and local same-day delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
